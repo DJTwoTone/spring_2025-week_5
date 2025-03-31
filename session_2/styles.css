@@ -1,0 +1,32 @@
+/* style.css - Session 2 Activity */
+
+/* Apply a base font and spacing */
+body {
+  font-family: Arial, sans-serif;
+  margin: 30px;
+}
+
+/* Style the main heading */
+h1 {
+  color: navy;
+  font-size: 36px;
+  font-weight: bold;
+}
+
+/* Style the introductory paragraph */
+.intro {
+  color: #444;
+  font-size: 18px;
+  font-style: italic;
+}
+
+/* Style the highlighted message with a bright hex color */
+.highlight {
+  color: #e91e63;
+  font-weight: bold;
+}
+
+/* Use rgba() for a transparent effect */
+.transparent {
+  color: rgba(0, 0, 255, 0.6);
+}
